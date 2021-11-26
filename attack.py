@@ -4,7 +4,7 @@ from subprocess import call
 import time
 
 op=2
-victim=raw_input('Enter the target IP to hack: ')
+victim=raw_input('Enter the target IP : ')
 victim=victim.replace(" ","")
 
 spoof=raw_input('Enter the routers IP *SHOULD BE ON SAME ROUTER*: ')

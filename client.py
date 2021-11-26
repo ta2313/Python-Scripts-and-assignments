@@ -1,3 +1,5 @@
+
+# udp pinger using python
 from socket import *
 import time
 import sys
